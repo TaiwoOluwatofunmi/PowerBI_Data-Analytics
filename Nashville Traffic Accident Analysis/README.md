@@ -4,7 +4,7 @@
 This Power BI dashboard analyzes traffic accident data in Nashville, TN, from January 2018 to April 2025. It uncovers trends, patterns, and contributing factors to collisions, offering insights that can support safety initiatives and data-driven decision-making.
 
 
-# Download the Dataset: https://1drv.ms/x/c/b16238bf9becb8e2/EfDs58cyBLlHrHXYCNtOgykBWXFOiha8SFKMuJkJTH9vfg?e=wio3mY
+## Download the Dataset: https://1drv.ms/x/c/b16238bf9becb8e2/EfDs58cyBLlHrHXYCNtOgykBWXFOiha8SFKMuJkJTH9vfg?e=wio3mY
 
 # Key Insights
 
@@ -66,6 +66,7 @@ Building an interactive and user-friendly dashboard
 Deriving actionable insights from time-series and categorical data
 
 Visualizing multi-variable relationships (e.g., time of day vs. weather conditions)
+
 
 
 
